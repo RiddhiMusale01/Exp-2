@@ -6,3 +6,7 @@ The unary operator "sizeof" determines the size of data types such as variables 
 
 OUTPUT 1:
 ![image](https://github.com/user-attachments/assets/d88c38cd-7763-44f7-b082-150f9349d787)
+OUTPUT 2:
+![image](https://github.com/user-attachments/assets/8241f33b-0dce-4eae-9045-47c93e57b147)
+OUTPUT 3:
+![image](https://github.com/user-attachments/assets/a04ad115-b4f9-4412-bae2-65a60bc13154)

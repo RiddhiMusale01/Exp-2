@@ -1,4 +1,4 @@
-# Exp-2
+# Experiment 2
 AIM: To study and implement C++ data structures.
 
 THEORY:

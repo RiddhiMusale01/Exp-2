@@ -1,6 +1,8 @@
 # Experiment 2
 AIM: To study and implement C++ data structures.
 
+SOFTWARE: Visual Studio Code
+
 THEORY:
 
 The sizeof operator in C++ returns the size (in bytes) of a variable or data type. This operator is evaluated at compile time and provides information about the memory allocated for each data type.
